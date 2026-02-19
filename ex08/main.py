@@ -1,0 +1,10 @@
+metro = float(input("Digite um quantidade em metros: "))
+
+print(f"A medida de {metro}m corresponde a:")
+print("---------------------------------")
+print(f"     Quilômetros:     {metro/1000}km")
+print(f"     Hectômetros:     {metro/100}hm")
+print(f"     Decâmetro:       {metro/10}dam")
+print(f"     Decímetro:       {metro*10}dm")
+print(f"     Centímetro:      {metro*100}cm")
+print(f"     Milímetro:       {metro*1000}mm")
