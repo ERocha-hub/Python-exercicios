@@ -1,0 +1,7 @@
+# Created 2026-02-21 sáb 11:20
+#+options: toc:nil
+#+title: Exercício 12 - Calculando descontos
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex12/README.org
+* Exercício 12 - Calculando descontos
+Este exercício recebe um valor float dado e calcula o valor dele com 5% de desconto.
