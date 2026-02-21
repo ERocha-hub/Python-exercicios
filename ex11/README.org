@@ -1,0 +1,7 @@
+# Created 2026-02-20 sex 23:59
+#+options: toc:nil
+#+title: Exercício 11 - Pintando parede
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex11/README.org
+* Exercício 11 - Pintando parede
+Para uma altura e largura dados, calcula a área e a quantidade de tinta necessária(1l a cada 2 m²).
