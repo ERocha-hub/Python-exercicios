@@ -1,0 +1,7 @@
+# Created 2026-02-21 sáb 11:27
+#+options: toc:nil
+#+title: Exercício 13 - Reajuste salarial
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex13/README.org
+* Exercício 13 - Reajuste salarial
+Este exercício recebe um valor float(salário) e mostra o valor de um reajuste de 15% a mais no salário.
