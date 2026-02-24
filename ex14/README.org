@@ -1,0 +1,7 @@
+# Created 2026-02-24 ter 12:56
+#+options: toc:nil
+#+title: Exercício 14 - Conversor de temperaturas
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex14/README.org
+* Exercício 14 - Conversor de temperaturas
+Esse programa converte graus celsius em fahrenheit.
