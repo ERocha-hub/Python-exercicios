@@ -1,0 +1,7 @@
+# Created 2026-03-04 qua 18:21
+#+options: toc:nil
+#+title: Exercício 20 - Sorteando uma ordem na lista
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex20/README.org
+* Exercício 20 - Sorteando uma ordem na lista
+Consequência previsível do último exercício. Neste exercício, o programa recebe o input de 4 nomes de alunos e embaralha a ordem da lista.
