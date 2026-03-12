@@ -1,0 +1,7 @@
+# Created 2026-03-12 qui 07:39
+#+options: toc:nil
+#+title: Exercício 21 - Tocando mp3
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex21/README.org
+* Exercício 21 - Tocando mp3
+Esse exercício toca uma música em MP3.
