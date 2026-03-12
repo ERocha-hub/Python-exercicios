@@ -1,0 +1,7 @@
+# Created 2026-02-26 qui 12:03
+#+options: toc:nil
+#+title: Exercício 17 - Catetos e Hipotenusa
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex17/README.org
+* Exercício 17 - Catetos e Hipotenusa
+Este exercício calcula a hipotenusa de 2 catetos dados.
