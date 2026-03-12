@@ -1,0 +1,7 @@
+# Created 2026-02-26 qui 11:56
+#+options: toc:nil
+#+title: Exercício 16 - Quebrando um número
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex16/README.org
+* Exercício 16 - Quebrando um número
+Este exercício recebe um número float e retorna seu valor inteiro.
