@@ -1,0 +1,7 @@
+# Created 2026-02-26 qui 12:16
+#+options: toc:nil
+#+title: Exercício 18 - Seno, Cosseno e Tangente
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex18/README.org
+* Exercício 18 - Seno, Cosseno e Tangente
+Este exercício recebe um ângulo(em graus º) e devolve o valor numérico do seno, cosseno e tangente deste.
