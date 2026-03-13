@@ -1,0 +1,7 @@
+# Created 2026-03-13 sex 02:03
+#+options: toc:nil
+#+title: Exercício 22 - Analisando Textos
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex22/README.org
+* Exercício 22 - Analisando Textos
+Esse exercício recebe um nome completo e retorna em maiusculas, em minusculas, a quantidade de letras e a quantidade de letras no primeiro nome.
