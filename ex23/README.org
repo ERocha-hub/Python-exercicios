@@ -1,0 +1,8 @@
+# Created 2026-03-13 sex 14:15
+#+options: toc:nil
+#+title: Exercício 23 - Separando digitos de um número
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex23/README.org
+* Exercício 23 - Separando digitos de um número
+Esse exercício separa as casas de um número dado em milhar, centena, dezena e unidade.
+Para esse exercício, usamos o operador de obter resto =%= da divisão inteira =//=.
