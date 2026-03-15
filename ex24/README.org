@@ -1,0 +1,7 @@
+# Created 2026-03-15 dom 15:42
+#+options: toc:nil
+#+title: Exercício 24 - Verificando primeiras letras de um texto
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex24/README.org
+* Exercício 24 - Verificando primeiras letras de um texto
+Esse programa recebe uma cidede e confere se ela começa com "santo".
