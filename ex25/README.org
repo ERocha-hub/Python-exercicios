@@ -1,0 +1,7 @@
+# Created 2026-03-16 seg 06:43
+#+options: toc:nil
+#+title: Exercício 25 - Procurando uma string dentro de outra
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex25/README.org
+* Exercício 25 - Procurando uma string dentro de outra
+Este programa rescebe um nome completo e retorna se ele possui o nome "Silva" ou não como valor booleano.
