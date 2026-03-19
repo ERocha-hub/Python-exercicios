@@ -1,0 +1,7 @@
+# Created 2026-03-19 qui 17:55
+#+options: toc:nil
+#+title: Exercício 26 - Primeira e última ocorrência de uma string
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex26/README.org
+* Exercício 26 - Primeira e última ocorrência de uma string
+Este programa recebe uma string e descreve: quantas vezes aparece a letra =A=, a posição que aparece a primeira letra =A= e a posição que aparece a última letra =A=.
