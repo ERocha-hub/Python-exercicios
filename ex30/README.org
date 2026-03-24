@@ -1,0 +1,7 @@
+# Created 2026-03-24 ter 16:35
+#+options: toc:nil
+#+title: Exercício 30 - Par ou ímpar
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex30/README.org
+* Exercício 30 - Par ou ímpar
+Esse exercício recebe o input de um inteiro e retorna se ele é par ou ímpar.
