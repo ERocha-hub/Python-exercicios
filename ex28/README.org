@@ -1,0 +1,22 @@
+# Created 2026-03-24 ter 14:17
+#+options: toc:nil
+#+title: Exercício 28 - Jogo adivinhação v1.0
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex28/README.org
+* Exercício 28 - Jogo adivinhação v1.0
+Este programa ramdomiza um número de 0 a 5 e pede um input para o usuário tentar adivinhar. Responde se acertou ou não.
+
+Curiosidade: =\033= é um "escape code" do ANSI para dar uma saída de código ao terminal. Neste programa, usamos para representar as cores do terminal na saída do código. São equivalentes:
+- Octal: \033
+- Hexadecimal: \x1B
+- Unicode: \u001b
+- Tecla Ctrl: ^[
+
+Esses códigos são criados assim:
+- Começam com ~\x1B[~ (qualquer código especificado + [)
+- Então são adicionados um número arbitrário de inteiros separados por ~;~
+- Terminam em ~m~
+
+Outras fontes sobre ANSI Escape codes:
+- [[https://gist-github-com.translate.goog/fnky/458719343aabd01cfb17a3a4f7296797?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc][Sequências de escape ANSI]]
+- [[https://en.wikipedia.org/wiki/ANSI_escape_code][Wikipedia]]
