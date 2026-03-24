@@ -1,0 +1,7 @@
+# Created 2026-03-24 ter 16:27
+#+options: toc:nil
+#+title: Exercício 29 - Radar eletrônico
+#+author: Erik Ap Gomes Rocha
+#+export_file_name: ~/Projetos/Codigos/Python-exercicios/ex29/README.org
+* Exercício 29 - Radar eletrônico
+Esses exerício recebe um inteiro como input e restorna se a velociadade estava acima de 80km/h e, se estiver, mostra a multa(R$7,00 cada km a mais que o limite).
